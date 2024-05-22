@@ -1,4 +1,5 @@
 # Dashboard de vendas
+[**Dashboard**](https://public.tableau.com/shared/DS3PRD2ZK?:display_count=n&:origin=viz_share_link)
 
 ## Desvendando os Segredos do Sucesso: Uma Análise Detalhada do Desempenho de Lojas em um E-commerce de Veículos Mergulhando nos Dados para Revelar Oportunidades:
 
